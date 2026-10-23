@@ -1,16 +1,30 @@
-## Hi there 👋
+### Привет! 👋 Я Python-разработчик, специализирующийся на автоматизации, парсинге данных и создании Telegram-ботов.
 
-<!--
-**TheUndergrounder/TheUndergrounder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я помогаю бизнесу и стартапам экономить время и деньги за счет автоматизации рутинных процессов, сбора информации из открытых источников и разработки удобных интерфейсов в Telegram.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Стек технологий:
+* **Языки:** Python (Asyncio, OOP)
+* **Telegram-боты:** aiogram, telebot
+* **Парсинг и скрапинг:** BeautifulSoup, Selenium, Scrapy, requests, lxml
+* **Базы данных:** PostgreSQL, MySQL, SQLite
+* **Инструменты:** Git, Docker, REST API, JSON
+
+---
+
+### 💼 Чем я могу помочь (Услуги):
+1. **Разработка Telegram-ботов:** от простых ботов-визиток и систем поддержки до сложных интерактивных платформ, интеграций с платежными шлюзами и CRM.
+2. **Парсинг и сбор данных:** автоматический сбор цен, контактов, каталогов товаров с любых сайтов с выгрузкой в Excel, JSON, CSV или базы данных.
+3. **Автоматизация бизнес-процессов:** скрипты для автопостинга, мониторинга сайтов, обработки документов и интеграции различных сервисов между собой.
+
+---
+
+### 📊 Статистика и активность:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Theaundergrounder&show_icons=true&theme=radical)
+
+---
+
+### 📫 Как со мной связаться:
+* **Telegram:** @net_eto_ne_mucya
+* **Email:** alexander.rudnevvv@gmail.com
